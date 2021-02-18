@@ -15,6 +15,6 @@
 
 
 
-### Programming Languages 🌐
+### My Bioinformatics Toolkit 
 
-| [<img src="https://github.com/arq5x/bedtools2/raw/master/docs/bedtools.swiss.png" alt="bedtools2" width="24">](https://github.com/arq5x/bedtools2) | 
+[<img src="https://github.com/arq5x/bedtools2/raw/master/docs/bedtools.swiss.png" alt="bedtools2" width="30">](https://github.com/arq5x/bedtools2)
