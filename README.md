@@ -1,4 +1,9 @@
-### Hi 👋, I'm Karan
+
+
+<h1 align="center">Hi 👋, I'm Karan.</h1>
+<h3 align="center">A bioinformatician who likes everything tarball zipped. </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kkapuria3&style=flat-square&color=blue" alt="kkapuria3" /> </p>
+
 
 <!--
 **kkapuria3/kkapuria3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
