@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Karan
 
 <!--
 **kkapuria3/kkapuria3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://komarev.com/ghpvc/?username=kkapuria3" alt="kkapuria3" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
+</p>
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kapuriakaran/)](https://www.linkedin.com/in/kapuriakaran/)
