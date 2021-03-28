@@ -32,5 +32,3 @@
 
 <p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=kkapuria3&layout=compact&theme=radical&card_width=1000&hide_border=true" /></p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkapuria3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
