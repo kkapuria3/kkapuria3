@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Karan.</h1>
-<h3 align="center">A bioinformatician who likes building open source bots .</h3>
+<h3 align="center">I am Bioinformatician specializing in Clinical Human Genomics and my favourite hobby is to script open source bots .</h3>
 <h1 align="center">
 
 <p align="center"> 
