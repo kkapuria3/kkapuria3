@@ -30,5 +30,7 @@
 
 <p align="center"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kkapuria3&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&card_width=500" alt="kkapuria3" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kkapuria3&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <p align="center"><img width="100%" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=kkapuria3&layout=compact&theme=radical&card_width=1000&hide_border=true" /></p>
 
