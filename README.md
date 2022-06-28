@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
+<p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -36,8 +36,8 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-
+<p align="center">
+</p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kkapuria3&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
