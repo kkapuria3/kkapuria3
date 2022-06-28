@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Karan.</h1>
-<h3 align="center">I am Bioinformatician specializing in Clinical Human Genomics and my favourite hobby is to script open source bots .</h3>
-<h1 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas+&color=F7B847&multiline=true&width=800&height=55&lines=Bioinformatician+specializing+in+Clinical+Human+Genomics.+;My+favourite+hobby+is+to+script+open+source+bots.)](https://git.io/typing-svg)
 
 <p align="center"> 
   Visitor count<br>
