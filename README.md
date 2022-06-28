@@ -36,8 +36,9 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-<p align="center">
 </p>
+<p align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kkapuria3&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
