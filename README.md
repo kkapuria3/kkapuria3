@@ -31,8 +31,8 @@
 
 <h3 align="center">GitHub Profile Stats</h3>
 
-  <img alt="kkapuria3's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kkapuria3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/></a>
-  <img alt="kkapuria3's Top Languages" src="https://github-readme-stats.vercel.app/api?username=kkapuria3&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="180px"/></a>
+  <img align="center" alt="kkapuria3's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kkapuria3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/></a>
+  <img align="center" alt="kkapuria3's Top Languages" src="https://github-readme-stats.vercel.app/api?username=kkapuria3&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="500px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
