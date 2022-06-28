@@ -40,4 +40,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kkapuria3&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="kkapuria3's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=kkapuria3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
