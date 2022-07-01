@@ -84,7 +84,7 @@
     </p>
 
 <br>
-<h4 align="center">Databases and cloud hosting</h4>
+<h4 align="center">Databases and Cloud hosting</h4>
 <br>
 <p align="center">
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
